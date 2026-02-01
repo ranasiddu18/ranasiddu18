@@ -7,7 +7,7 @@
 
   <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/9a4a8961-bf20-4389-9010-c07ec1b78511" />
 ## ABOUT Me
-
+<br>
 <img width="14" height="14" alt="image" src="https://github.com/user-attachments/assets/97d6728c-1e04-4959-941e-0f0eb0da2597" />
 Pursuing BTECH in ECE at 
 ## VIDYA JYOTHI INSTITUTE OF TECHNOLOGY(VJIT).
