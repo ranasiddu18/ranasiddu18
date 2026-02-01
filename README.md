@@ -53,13 +53,17 @@ ________________________________________________________________________________
 ## Tech Stack                                            
 
 <img width="50" height="50" alt="com github corna Vivado" src="https://github.com/user-attachments/assets/e19537b7-02bc-408e-bf52-e5f81bb67305" />
-![images](https://github.com/user-attachments/assets/0c0b2251-e1c4-4808-b75d-e593b7e32b0a)
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/468fa370-6009-425e-b9ff-aeda2d7162e2" />
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d126d372-f1d8-45b5-a810-3912c3bf06c2" />
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4650dc7c-e0d6-40af-b16f-7e6966d51e24" />
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c3c43c3c-744c-46df-ab3c-848aacf318cc" />
 
-
+_____________________________________________________________________________________________
      
 ## Contact 
   <br>
-    
+  
+    <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/c52dfd6a-7a40-470a-a97f-48fc374cca9e" />
 https://www.linkedin.com/in/rana-siddu-marka-b271141a4<br>
         <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/2b73dc6e-5710-4d43-acaa-f45572a70676" />
 markasiddu18@gmail.com
