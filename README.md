@@ -7,8 +7,6 @@ ________________________________________________________________________________
 
   <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9a4a8961-bf20-4389-9010-c07ec1b78511" />  **About Me**
 
-<br>
-
 
 •Pursiung Btech in ECE at 
 **Vidya Jyothi Institute of Technology(VJIT).**
@@ -31,7 +29,6 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________
  **CERTIFICATIONS IN**
 
-<br>
 
 **•	PCB  Design** – Altium Education.
 <br>
