@@ -1,5 +1,5 @@
 <img width="1280" height="384" alt="image" src="https://github.com/user-attachments/assets/373c94b3-9ff2-421e-885c-8d1dc61745fc" /><br>
-                 ## Hi there 👋<br>
+                 # Hi there 👋<br>
 ________________________________________<br>
  PCB Design | Verilog HDL | Python Programming | Aspiring RTL Design Engineer | AI Enthusiast<br>
 ________________________________________<br>
