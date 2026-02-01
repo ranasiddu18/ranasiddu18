@@ -1,5 +1,5 @@
 <img width="1280" height="384" alt="image" src="https://github.com/user-attachments/assets/373c94b3-9ff2-421e-885c-8d1dc61745fc" /><br>
-  ##                                   Hi there 👋
+                                **Hi there 👋**
 
   
 ## PCB Design | Verilog HDL | Python Programming | Aspiring RTL Design Engineer | AI Enthusiast
@@ -9,8 +9,7 @@
 ## ABOUT Me
 <br>
 <img width="14" height="14" alt="image" src="https://github.com/user-attachments/assets/97d6728c-1e04-4959-941e-0f0eb0da2597" />
-Pursuing BTECH in ECE at 
-**Vidya Jyothi Institute of Technology(VJIT).**
+Pursuing BTECH in ECE at **Vidya Jyothi Institute of Technology(VJIT).**
 <br>
 
   <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/c914479c-f061-4156-b404-ae6a28d30bf8" />
