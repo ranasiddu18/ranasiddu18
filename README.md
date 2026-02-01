@@ -8,9 +8,12 @@
   <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/9a4a8961-bf20-4389-9010-c07ec1b78511" />
 **About Me**
 <br>
+
+
 •Pursiung Btech in ECE at 
 **Vidya Jyothi Institute of Technology(VJIT).**
 <br>
+
 
   •Aspiring
 **VLSI Design Engineer.**
@@ -47,8 +50,8 @@ ________________________________________________________________________________
 **•	Introduction to Iot and Digital Transformation**– Cisco Networking Academy.
 <br>
 
-
-   <img width="21" height="24" alt="image" src="https://github.com/user-attachments/assets/2546ce5e-45af-4062-8824-7cc3ea8854fb" />
+____________________________________________________________________________________________
+ 
 ## Tech Stack
     <br>
                                             
