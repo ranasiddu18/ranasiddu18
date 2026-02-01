@@ -4,7 +4,7 @@ ________________________________________________________________________________
 ## PCB Design | Verilog HDL | Python Programming | Aspiring RTL Design Engineer | AI Enthusiast
 ______________________________________________________________________________________________
 
-  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9a4a8961-bf20-4389-9010-c07ec1b78511" />  **About Me**
+  <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/9a4a8961-bf20-4389-9010-c07ec1b78511" />  **About Me**
 
 
 •Pursiung Btech in ECE at 
@@ -26,7 +26,7 @@ ________________________________________________________________________________
 **PCB Design.**
 <br>
 ______________________________________________________________________________________________
- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5278c599-96b4-47e1-8bc9-bf313b3e9054" />**CERTIFICATIONS IN**
+ <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/5278c599-96b4-47e1-8bc9-bf313b3e9054" />**CERTIFICATIONS IN**
 
 
 **•	PCB  Design** – Altium Education.
@@ -46,7 +46,7 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________
  
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/89b13608-6b14-4d85-b440-2bc547108f92" />**Tech Stack**                                            
+<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/89b13608-6b14-4d85-b440-2bc547108f92" />**Tech Stack**                                            
 
 <img width="50" height="50" alt="com github corna Vivado" src="https://github.com/user-attachments/assets/e19537b7-02bc-408e-bf52-e5f81bb67305" />
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/468fa370-6009-425e-b9ff-aeda2d7162e2" />
@@ -56,7 +56,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________
      
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/636ecd4e-8e9e-4934-b9cd-4d91277e0d35" />**Contact** 
+<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/636ecd4e-8e9e-4934-b9cd-4d91277e0d35" />**Contact** 
 
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
