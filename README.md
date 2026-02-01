@@ -1,7 +1,8 @@
 <img width="1280" height="384" alt="image" src="https://github.com/user-attachments/assets/373c94b3-9ff2-421e-885c-8d1dc61745fc" /><br>
   ## Hi there 👋
-________________________________________<br>
- PCB Design | Verilog HDL | Python Programming | Aspiring RTL Design Engineer | AI Enthusiast<br>
+
+  
+## PCB Design | Verilog HDL | Python Programming | Aspiring RTL Design Engineer | AI Enthusiast<br>
 ________________________________________<br>
   <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/9a4a8961-bf20-4389-9010-c07ec1b78511" />
 ## ABOUT Me
