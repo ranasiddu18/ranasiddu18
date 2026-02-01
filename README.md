@@ -63,8 +63,9 @@ ________________________________________________________________________________
 ## Contact 
 
 
+ Contact
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-        <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/2b73dc6e-5710-4d43-acaa-f45572a70676" />
-markasiddu18@gmail.com
+
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 _____________________________________________________________________________________________
 
