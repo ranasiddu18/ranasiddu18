@@ -30,8 +30,7 @@ Completed hands on projects in
 **PCB Design.**
 <br>
 
-<img width="27" height="27" alt="image" src="https://github.com/user-attachments/assets/4169384d-f599-49bd-839d-80d717519e02" />
-**CERTIFICATIONS IN**
+ **CERTIFICATIONS IN**
 
 <br>
 
