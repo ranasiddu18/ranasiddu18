@@ -62,10 +62,8 @@ ________________________________________________________________________________
      
 ## Contact 
 
-  
          <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/c52dfd6a-7a40-470a-a97f-48fc374cca9e" />
 https://www.linkedin.com/in/rana-siddu-marka-b271141a4<br>
-
         <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/2b73dc6e-5710-4d43-acaa-f45572a70676" />
 markasiddu18@gmail.com
 _____________________________________________________________________________________________
