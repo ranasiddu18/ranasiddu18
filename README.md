@@ -52,7 +52,9 @@ ________________________________________________________________________________
  
 ## Tech Stack                                            
 
-<img width="256" height="256" alt="com github corna Vivado" src="https://github.com/user-attachments/assets/e19537b7-02bc-408e-bf52-e5f81bb67305" />
+<img width="50" height="50" alt="com github corna Vivado" src="https://github.com/user-attachments/assets/e19537b7-02bc-408e-bf52-e5f81bb67305" />
+![images](https://github.com/user-attachments/assets/0c0b2251-e1c4-4808-b75d-e593b7e32b0a)
+
 
      
 ## Contact 
