@@ -53,9 +53,9 @@ ________________________________________________________________________________
 ## Tech Stack
     <br>
                                             
-     
-     <img width="116" height="128" alt="image" src="https://github.com/user-attachments/assets/8221c9da-79ab-4ffd-bf8c-5f0028df0a4f" />
+    <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4dbe48dc-999f-47c5-8598-31374de4fc4b" />
 
+     
 ## Contact 
   <br>
     
