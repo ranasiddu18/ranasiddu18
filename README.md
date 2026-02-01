@@ -5,7 +5,7 @@ ________________________________________________________________________________
 ## PCB Design | Verilog HDL | Python Programming | Aspiring RTL Design Engineer | AI Enthusiast
 ______________________________________________________________________________________________
 
-  <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/9a4a8961-bf20-4389-9010-c07ec1b78511" />  **About Me**
+  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9a4a8961-bf20-4389-9010-c07ec1b78511" />  **About Me**
 
 <br>
 
@@ -63,7 +63,6 @@ ________________________________________________________________________________
 ## Contact 
 
 
- Contact
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
