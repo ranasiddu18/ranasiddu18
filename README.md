@@ -7,7 +7,7 @@ ________________________________________________________________________________
   <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/9a4a8961-bf20-4389-9010-c07ec1b78511" />  **About Me**
 
 
-•Pursiung Btech in ECE at 
+•Pursuing Btech in ECE at 
 **Vidya Jyothi Institute of Technology(VJIT).**
 <br>
 
@@ -59,7 +59,7 @@ ________________________________________________________________________________
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/636ecd4e-8e9e-4934-b9cd-4d91277e0d35" />  **Contact** 
 
 
-<a href="https://www.linkedin.com/in/rana-siddu-marka" target="_blank">
+<a href="https://www.linkedin.com/in/rana-siddu-marka-b271141a4/>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
