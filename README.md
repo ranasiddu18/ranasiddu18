@@ -4,7 +4,7 @@ ________________________________________________________________________________
 ## PCB Design | Verilog HDL | Python Programming | Aspiring RTL Design Engineer | AI Enthusiast
 ______________________________________________________________________________________________
 
-  <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/9a4a8961-bf20-4389-9010-c07ec1b78511" />  **About Me**
+  <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/9a4a8961-bf20-4389-9010-c07ec1b78511" />  **About**
 
 
 •Pursuing Btech in ECE at 
@@ -26,7 +26,7 @@ ________________________________________________________________________________
 **PCB Design.**
 <br>
 ______________________________________________________________________________________________
- <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/5278c599-96b4-47e1-8bc9-bf313b3e9054" />  **CERTIFICATIONS IN**
+ <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/5278c599-96b4-47e1-8bc9-bf313b3e9054" />  **CERTIFICATIONS**
 
 
 **•	PCB  Design** – Altium Education.
