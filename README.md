@@ -44,6 +44,7 @@ ________________________________________________________________________________
 **•	Introduction to Iot and Digital Transformation**– Cisco Networking Academy.
 <br>
 
+**•	Verilog VHDL-Hands On**– Maven Silicon.
 ____________________________________________________________________________________________
  
 <img width="15" height="10" alt="image" src="https://github.com/user-attachments/assets/89b13608-6b14-4d85-b440-2bc547108f92" />  **Tech Stack**                                            
