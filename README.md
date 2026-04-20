@@ -58,7 +58,6 @@ ________________________________________________________________________________
 
  
 <img width="15" height="10" alt="image" src="https://github.com/user-attachments/assets/89b13608-6b14-4d85-b440-2bc547108f92" />  **Tech Stack**                                            
-
 <img width="50" height="50" alt="com github corna Vivado" src="https://github.com/user-attachments/assets/e19537b7-02bc-408e-bf52-e5f81bb67305" />
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/468fa370-6009-425e-b9ff-aeda2d7162e2" />
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d126d372-f1d8-45b5-a810-3912c3bf06c2" />
