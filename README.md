@@ -60,11 +60,14 @@ ________________________________________________________________________________
  
   **Tech Stack**                   
 
-<img width="50" height="50" alt="com github corna Vivado" src="https://github.com/user-attachments/assets/e19537b7-02bc-408e-bf52-e5f81bb67305" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/468fa370-6009-425e-b9ff-aeda2d7162e2" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d126d372-f1d8-45b5-a810-3912c3bf06c2" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3a759cbd-954a-4c9f-900b-acae052422a0" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c3c43c3c-744c-46df-ab3c-848aacf318cc" />
+## Tech Stack
+
+![Altium](https://img.shields.io/badge/Altium-Designer-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ 
 
 _____________________________________________________________________________________________
      
