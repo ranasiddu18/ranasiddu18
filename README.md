@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 
 •Upskilling 
-**PCB Design, Verilog HDL.**
+**Verilog HDL.**
 
 
 •Completed hands on projects in 
