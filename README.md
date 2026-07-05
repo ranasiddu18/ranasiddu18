@@ -54,9 +54,9 @@ ________________________________________________________________________________
 
 ## Projects 
 
-**> 8-bit Signed ALU using Verilog VHDL**
+**> 8-bit Signed ALU using Verilog HDL**
 
-**> FPGA Based Pedestrian Detection using Verilog VHDL**
+**> FPGA Based Pedestrian Detection using Verilog HDL**
 
  _________________________________________________________________________________________________________________________
 
