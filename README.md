@@ -469,7 +469,7 @@ Open_To:
 
 | Quarter | Goals |
 |----------|-------|
-| Q1 | Complete 250+ HDLBits Problems |
+| Q1 | Complete all HDLBits Problems |
 | Q2 | Build Advanced FPGA Projects |
 | Q3 | Learn SystemVerilog & Verification |
 | Q4 | Contribute to Open Source RTL Projects |
