@@ -98,9 +98,6 @@ Currently, I am actively preparing for opportunities in:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
 
 </p>
 
