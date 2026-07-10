@@ -116,7 +116,7 @@ Currently, I am actively preparing for opportunities in:
 
 <img src="https://skillicons.dev/icons?i=github"/>
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+ <img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/brand/xilinx-logo.png" height="48" alt="Xilinx Vivado"/>
 
 </p>
 
