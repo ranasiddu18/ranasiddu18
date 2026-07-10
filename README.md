@@ -306,7 +306,7 @@ Consistently solving HDLBits exercises to strengthen RTL coding and digital desi
 
 # GitHub Analytics
 
- 
+ <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranasiddu18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
@@ -316,7 +316,7 @@ Consistently solving HDLBits exercises to strengthen RTL coding and digital desi
 
 ---
 
- 
+<div align="center"> 
 
 <img src="https://streak-stats.demolab.com?user=ranasiddu18&theme=tokyonight&hide_border=true"/>
 
