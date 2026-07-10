@@ -179,15 +179,7 @@ Continuous hands-on practice strengthening RTL coding fluency, digital design fu
 
 ---
 
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ranasiddu18&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
----
+ 
 
 ## 🟣 Contribution Activity
 
@@ -199,15 +191,7 @@ Continuous hands-on practice strengthening RTL coding fluency, digital design fu
 
 ---
 
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ranasiddu18/ranasiddu18/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
+ 
 
 ## 🟣 Current Focus
 
