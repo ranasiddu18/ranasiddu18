@@ -50,25 +50,25 @@
 
 # Interests:
 
-	* RTL Design
-	* Digital Design
-	* FPGA Development
-	* Design Verification
-	* ASIC Design Flow
-	* RISC-V Processor Design
-	* Semiconductor Technologies
+	- RTL Design
+	- Digital Design
+	- FPGA Development
+	- Design Verification
+	- ASIC Design Flow
+	- RISC-V Processor Design
+	- Semiconductor Technologies
 
 # Currently Learning:
 
-	* Advanced Verilog
-	* SystemVerilog
-	* RTL Verification
-	* FPGA Prototyping
-	* Digital IP Design
+	- Advanced Verilog
+	- SystemVerilog
+	- RTL Verification
+	- FPGA Prototyping
+	- Digital IP Design
  
 ```
 
-I am an **Electronics and Communication Engineering undergraduate** passionate about **Digital Design, RTL Development, FPGA Prototyping, and Semiconductor Engineering**.
+I am an Electronics and Communication Engineering undergraduate passionate about Digital Design, RTL Development, FPGA Prototyping, and Semiconductor Engineering.
 
 My primary focus is designing synthesizable RTL, developing modular digital hardware, validating functionality through simulation, and implementing designs on FPGA platforms.
 
