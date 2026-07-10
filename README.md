@@ -43,32 +43,40 @@
 
 # About Me
 
+```cpp
+class RanaSiddu
+{
+public:
 
-**I am Rana Siddu, an Aspiring RTL Design Engineer.**
+    string Role = "Aspiring RTL Design Engineer";
 
-**Education: B.Tech Electronics & Communication Engineering**
+    string Education =
+        "B.Tech Electronics & Communication Engineering";
 
-# Interests:
+    vector<string> Interests =
+    {
+        "RTL Design",
+        "Digital Design",
+        "FPGA Development",
+        "Design Verification",
+        "ASIC Design Flow",
+        "RISC-V Processor Design",
+        "Semiconductor Technologies"
+    };
 
-	- RTL Design
-	- Digital Design
-	- FPGA Development
-	- Design Verification
-	- ASIC Design Flow
-	- RISC-V Processor Design
-	- Semiconductor Technologies
+    vector<string> CurrentlyLearning =
+    {
+        "Advanced Verilog",
+        "SystemVerilog",
+        "RTL Verification",
+        "FPGA Prototyping",
+        "Digital IP Design"
+    };
 
-# Currently Learning:
-
-	- Advanced Verilog
-	- SystemVerilog
-	- RTL Verification
-	- FPGA Prototyping
-	- Digital IP Design
- 
+};
 ```
 
-I am an Electronics and Communication Engineering undergraduate passionate about Digital Design, RTL Development, FPGA Prototyping, and Semiconductor Engineering.
+I am an **Electronics and Communication Engineering undergraduate** passionate about **Digital Design, RTL Development, FPGA Prototyping, and Semiconductor Engineering**.
 
 My primary focus is designing synthesizable RTL, developing modular digital hardware, validating functionality through simulation, and implementing designs on FPGA platforms.
 
@@ -90,6 +98,9 @@ Currently, I am actively preparing for opportunities in:
 
 <p>
 
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
 
 </p>
 
@@ -298,7 +309,7 @@ Consistently solving HDLBits exercises to strengthen RTL coding and digital desi
 
 # GitHub Analytics
 
- <div align="center">
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranasiddu18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
@@ -308,7 +319,7 @@ Consistently solving HDLBits exercises to strengthen RTL coding and digital desi
 
 ---
 
-<div align="center"> 
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ranasiddu18&theme=tokyonight&hide_border=true"/>
 
@@ -393,6 +404,30 @@ Consistently solving HDLBits exercises to strengthen RTL coding and digital desi
 
 </div>
 
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ranasiddu18/ranasiddu18/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ranasiddu18/ranasiddu18/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/ranasiddu18/ranasiddu18/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
+
+</div>
+
+> **Note:** This requires a GitHub Action to generate the snake animation. I'll share the workflow below.
 
 ---
 
@@ -438,7 +473,7 @@ Open_To:
 
 | Quarter | Goals |
 |----------|-------|
-| Q1 | Complete all HDLBits Problems |
+| Q1 | Complete 250+ HDLBits Problems |
 | Q2 | Build Advanced FPGA Projects |
 | Q3 | Learn SystemVerilog & Verification |
 | Q4 | Contribute to Open Source RTL Projects |
