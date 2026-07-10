@@ -241,3 +241,164 @@ Consistently solving HDLBits exercises to strengthen RTL coding and digital desi
 </details>
 
 ---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|---------|
+| 💻 RTL Development | Designed and implemented multiple synthesizable RTL projects using Verilog HDL |
+| 🔬 FPGA Engineering | Successfully deployed digital hardware designs on Xilinx Artix-7 FPGA |
+| 🖥 Functional Verification | Developed custom Verilog testbenches for RTL simulation and debugging |
+| ⚙ Digital System Design | Built a complete 32-bit Single Cycle RV32I RISC-V Processor |
+| 📚 Continuous Learning | Solved 100+ HDLBits problems covering RTL design concepts |
+| 🏆 Hardware Validation | Verified FPGA implementations using LEDs and Seven Segment Displays |
+| 📖 Semiconductor Learning | Continuously expanding knowledge in RTL Design, FPGA, Verification and ASIC Design Flow |
+
+</div>
+
+---
+
+# Certifications
+
+## Semiconductor & Digital Design
+
+<div align="center">
+
+| Provider | Certification |
+|----------|---------------|
+| ![](https://img.shields.io/badge/Maven%20Silicon-6D28D9?style=for-the-badge) | Verilog Hands-On |
+| ![](https://img.shields.io/badge/Maven%20Silicon-6D28D9?style=for-the-badge) | RISC-V Processor (RV32I) |
+| ![](https://img.shields.io/badge/Internshala-0E76A8?style=for-the-badge) | VLSI Design Training |
+| ![](https://img.shields.io/badge/Skill%20India-138808?style=for-the-badge) | VLSI Design |
+| ![](https://img.shields.io/badge/NSDC-FF9933?style=for-the-badge) | VLSI Design |
+
+</div>
+
+---
+
+## PCB Design
+
+<div align="center">
+
+| Provider | Certification |
+|----------|---------------|
+| ![](https://img.shields.io/badge/Altium-7C3AED?style=for-the-badge) | PCB Design |
+
+</div>
+
+---
+
+## Python & IoT
+
+<div align="center">
+
+| Provider | Certification |
+|----------|---------------|
+| ![](https://img.shields.io/badge/Cisco%20Networking%20Academy-1BA0D7?style=for-the-badge) | Python Essentials 2 |
+| ![](https://img.shields.io/badge/Cisco%20Networking%20Academy-1BA0D7?style=for-the-badge) | Introduction to IoT and Digital Transformation |
+| ![](https://img.shields.io/badge/Emertxe-4F46E5?style=for-the-badge) | Embedded Systems & IoT Internship |
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranasiddu18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranasiddu18&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ranasiddu18&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ranasiddu18&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranasiddu18&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# Development Metrics
+
+<div align="center">
+
+| Engineering Focus | Progress |
+|-------------------|----------|
+| RTL Design | ████████████░░░ |
+| Verilog HDL | █████████████░░ |
+| FPGA Development | ███████████░░░░ |
+| Functional Verification | ██████████░░░░░ |
+| Digital Design | █████████████░░ |
+| RISC-V Architecture | ██████████░░░░░ |
+| ASIC Design Flow | ███████░░░░░░░░ |
+| SystemVerilog | ██████░░░░░░░░░ |
+
+</div>
+
+---
+
+# Open Source Goals
+
+<div align="center">
+
+| 2026 Goals |
+|-------------|
+| Contribute to Open Source RTL Projects |
+| Build a Library of Reusable Verilog IP Cores |
+| Complete 250+ HDLBits Problems |
+| Develop Advanced FPGA Projects |
+| Learn SystemVerilog for Verification |
+| Explore ASIC Design Flow |
+| Publish Technical Articles on Digital Design |
+
+</div>
+
+---
+
+# Engineering Interests
+
+<div align="center">
+
+![](https://img.shields.io/badge/RTL%20Design-6D28D9?style=for-the-badge)
+
+![](https://img.shields.io/badge/FPGA-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/Digital%20Design-5B21B6?style=for-the-badge)
+
+![](https://img.shields.io/badge/Verification-4F46E5?style=for-the-badge)
+
+![](https://img.shields.io/badge/RISC--V-4338CA?style=for-the-badge)
+
+![](https://img.shields.io/badge/VLSI-312E81?style=for-the-badge)
+
+![](https://img.shields.io/badge/Semiconductors-6D28D9?style=for-the-badge)
+
+</div>
+
+---
