@@ -402,3 +402,139 @@ Consistently solving HDLBits exercises to strengthen RTL coding and digital desi
 </div>
 
 ---
+
+# Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ranasiddu18/ranasiddu18/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ranasiddu18/ranasiddu18/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/ranasiddu18/ranasiddu18/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
+
+</div>
+
+> **Note:** This requires a GitHub Action to generate the snake animation. I'll share the workflow below.
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced Verilog HDL
+  - SystemVerilog
+  - RTL Design Methodologies
+  - Functional Verification
+  - ASIC Design Flow
+  - FPGA Prototyping
+
+Building:
+  - Digital IP Cores
+  - FPGA-Based Hardware Projects
+  - RV32I Processor Enhancements
+  - Reusable RTL Modules
+  - Open Source Verilog Components
+
+Exploring:
+  - Design Verification
+  - Computer Architecture
+  - High-Speed Digital Design
+  - Semiconductor Design Flow
+  - Low-Power Digital Systems
+
+Open_To:
+  - RTL Design Engineer
+  - Junior VLSI Engineer
+  - FPGA Engineer
+  - Design Verification Engineer
+  - ASIC Design Intern
+  - Semiconductor Internship Opportunities
+```
+
+---
+
+# 2026 Engineering Roadmap
+
+<div align="center">
+
+| Quarter | Goals |
+|----------|-------|
+| Q1 | Complete 250+ HDLBits Problems |
+| Q2 | Build Advanced FPGA Projects |
+| Q3 | Learn SystemVerilog & Verification |
+| Q4 | Contribute to Open Source RTL Projects |
+
+</div>
+
+---
+
+# Engineering Philosophy
+
+> *"Great hardware is not just about making circuits work—it's about designing reliable, efficient, and scalable digital systems through disciplined engineering."*
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="mailto:markasiddu18@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rana-siddu-marka-b271141a4">
+<img src="https://img.shields.io/badge/LinkedIn-Rana%20Siddu%20Marka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ranasiddu18">
+<img src="https://img.shields.io/badge/GitHub-ranasiddu18-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ranasiddu18?tab=repositories">
+<img src="https://img.shields.io/badge/Portfolio-Projects-6D28D9?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# Let's Build Better Hardware
+
+<div align="center">
+
+**Interested in Digital Design, FPGA Development, RTL Design, Verification, or Semiconductor Engineering?**
+
+**Let's connect and build impactful hardware together.**
+
+</div>
+
+---
+
+# Quote
+
+<div align="center">
+
+*"Every line of RTL shapes tomorrow's silicon."*
+
+</div>
+
+---
+
+<div align="center">
+
+### Thank you for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:4F46E5,35:7C3AED,70:8B5CF6,100:A855F7"/>
+
+</div>
