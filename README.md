@@ -40,41 +40,35 @@
 </div>
 
 ---
-
 # About Me
 
-```cpp
-class RanaSiddu
-{
-public:
+🎓 **Role:** Aspiring RTL Design Engineer
 
-    string Role = "Aspiring RTL Design Engineer";
+📚 **Education:** B.Tech Electronics & Communication Engineering
 
-    string Education =
-        "B.Tech Electronics & Communication Engineering";
+---
 
-    vector<string> Interests =
-    {
-        "RTL Design",
-        "Digital Design",
-        "FPGA Development",
-        "Design Verification",
-        "ASIC Design Flow",
-        "RISC-V Processor Design",
-        "Semiconductor Technologies"
-    };
+### 🔧 Interests
 
-    vector<string> CurrentlyLearning =
-    {
-        "Advanced Verilog",
-        "SystemVerilog",
-        "RTL Verification",
-        "FPGA Prototyping",
-        "Digital IP Design"
-    };
+- RTL Design
+- Digital Design
+- FPGA Development
+- Design Verification
+- ASIC Design Flow
+- RISC-V Processor Design
+- Semiconductor Technologies
 
-};
-```
+---
+
+### 📖 Currently Learning
+
+- Advanced Verilog
+- SystemVerilog
+- RTL Verification
+- FPGA Prototyping
+- Digital IP Design
+
+---
 
 I am an **Electronics and Communication Engineering undergraduate** passionate about **Digital Design, RTL Development, FPGA Prototyping, and Semiconductor Engineering**.
 
