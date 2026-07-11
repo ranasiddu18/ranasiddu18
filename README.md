@@ -401,32 +401,7 @@ Consistently solving HDLBits exercises to strengthen RTL coding and digital desi
 </div>
 
 ---
-
-# Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ranasiddu18/ranasiddu18/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ranasiddu18/ranasiddu18/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/ranasiddu18/ranasiddu18/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
-
-</div>
-
-> **Note:** This requires a GitHub Action to generate the snake animation. I'll share the workflow below.
-
----
-
+  
 # Current Focus
 
 ```yaml
