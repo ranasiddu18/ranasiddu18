@@ -152,12 +152,12 @@ Designed and implemented a synthesizable 8-bit Signed ALU supporting over **25 a
 
 ### Highlights
 
--- Synthesizable RTL
--- Modular datapath
--- Status flag generation
--- Functional verification
--- FPGA deployment
--- Seven-segment display interface
+- Synthesizable RTL
+- Modular datapath
+- Status flag generation
+-  Functional verification
+-  FPGA deployment
+-  Seven-segment display interface
 
 </details>
 
