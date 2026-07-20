@@ -50,7 +50,7 @@
 
 ### 🔧 Interests
 
-- RTL Design
+-- RTL Design
 - Digital Design
 - FPGA Development
 - Design Verification
