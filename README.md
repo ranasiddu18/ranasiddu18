@@ -39,7 +39,7 @@
 
 </div>
 
----
+----
 # About Me
 
 🎓 **Role:** Aspiring RTL Design Engineer
